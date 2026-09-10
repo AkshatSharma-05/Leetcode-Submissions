@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AkshatSharma-05/Leetcode-Submissions/tree/master/0078-subsets) |
+| [0283-move-zeroes](https://github.com/AkshatSharma-05/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AkshatSharma-05/Leetcode-Submissions/tree/master/0078-subsets) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/AkshatSharma-05/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
