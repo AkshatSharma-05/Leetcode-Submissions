@@ -19,5 +19,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AkshatSharma-05/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0283-move-zeroes](https://github.com/AkshatSharma-05/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AkshatSharma-05/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
